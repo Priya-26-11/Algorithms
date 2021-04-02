@@ -1,0 +1,31 @@
+
+Date: 2nd April 2021
+
+
+Domain POOL:
+Recommendations:  Amozon Add 
+Games : Quick Draw
+Medical : Cancer detetction
+Detection: IDS, Anomaly , Spotify, Fraud, Email & Spamming 
+
+
+
+Alogrithms POOL:
+GA/GP
+ML : Ensemble
+ANN
+Auto ML
+
+
+Detetcion WON:
+IDS
+Anomaly
+Spotify
+Fraud
+Email & Spam
+Phising
+Spoiler
+
+Next Meeting:
+Looking into the Algorithms Basics which are suitable for the domain of the Problem.
+
